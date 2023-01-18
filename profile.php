@@ -15,7 +15,6 @@ if(!$user){
 if (isset($_POST['user'])){
     editUser($user, $_POST['user']);
 }
-
 function editUser($user, $formUser){
     
 }
