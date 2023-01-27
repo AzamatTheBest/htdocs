@@ -4,3 +4,6 @@ webalizer/
 xampp/
 applications.html
 bitname.css
+vendor/
+testapp/
+composer/
